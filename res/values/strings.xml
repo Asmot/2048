@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_quit">Quit</string>
+    <string name="logo_desc">Lhamaware Logo</string>
+    <string name="zero">&#032;00&#032;</string>
+
+</resources>
